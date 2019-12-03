@@ -1,0 +1,16 @@
+{
+    "libros": [
+        {
+            "titulo": "El diario de Ana Frank",
+            "autor": "camilo",
+            "publicado": 1947,
+            "isbn": 9788497593069
+        },
+        {
+            "titulo": "El hobbit",
+            "autor": "asdasd",
+            "publicado": 1937,
+            "isbn": 9788497593070
+        }
+    ]
+}
